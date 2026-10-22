@@ -1,0 +1,81 @@
+<!doctype html><html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#050c19"><title>Coffeelaktika — найди свою орбиту</title><meta name="description" content="Выбери свой кофе на звёздной орбите Coffeelaktika. Кофе и десерты в Орле."><link rel="preload" as="image" href="assets/latte.png"><link rel="stylesheet" href="style.css"></head><body>
+<div class="background" aria-hidden="true"></div>
+<header><a class="brand" href="./">coffeelaktika</a><button id="burger" aria-label="Открыть меню" aria-expanded="false" aria-controls="nav">☰</button><nav id="nav" aria-label="Основная навигация"><a href="./" aria-current="page">Главная</a><button data-page="drinks">Напитки</button><button data-page="desserts">Десерты</button><button data-page="about">О кофейне</button><button data-page="contacts">Контакты</button></nav><button class="city" data-page="contacts"><span>●</span> Орёл ⌄</button></header>
+<main class="hero"><h1>Найди свою <span>орбиту</span></h1><div class="title-line" aria-hidden="true"></div>
+<section id="stage" class="stage" aria-label="Кофейная орбита. Выберите напиток свайпом или стрелками." tabindex="0"><canvas id="galaxy" aria-hidden="true"></canvas><div id="cups"></div></section>
+<section class="selection" aria-label="Выбранный напиток"><div class="info" aria-live="polite" aria-atomic="true"><div class="copy"><h2 id="name">Латте</h2><p id="description">Мягкий кофе в молочных облаках</p></div><div class="meta"><span id="volume">350 мл</span><strong id="price">180 ₽</strong></div><button class="gold" id="details">Подробнее →</button></div><div class="controls"><button class="arrow" id="prev" aria-label="Предыдущий напиток">←</button><div><div class="dots" id="dots" role="group" aria-label="Выбрать напиток"></div><p>Листай и найди свой вкус</p></div><button class="arrow" id="next" aria-label="Следующий напиток">→</button></div></section>
+<button id="pause" class="pause" aria-label="Приостановить вращение" aria-pressed="false">Ⅱ <span>Пауза</span></button></main>
+<dialog id="modal"><button class="close" aria-label="Закрыть">×</button><div id="modal-content"></div></dialog>
+<script src="app.js"></script><!-- Отдельный слой звёзд. Вставить перед </body>. -->
+<style>
+  #coffee-background-stars {
+    position: absolute;
+    inset: 0 0 32%;
+    overflow: hidden;
+    pointer-events: none;
+    z-index: 1;
+  }
+  #coffee-background-stars i {
+    position: absolute;
+    left: var(--x);
+    top: var(--y);
+    width: var(--size);
+    height: var(--size);
+    border-radius: 50%;
+    background: #edf5ff;
+    box-shadow: 0 0 7px 2px #adcfff80;
+    opacity: .12;
+    animation: coffee-star-twinkle var(--duration)
+      ease-in-out var(--delay) infinite alternate;
+  }
+  #coffee-background-stars i:nth-child(11n)::before,
+  #coffee-background-stars i:nth-child(11n)::after {
+    content: "";
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background: linear-gradient(90deg, transparent, #e5efff, transparent);
+  }
+  #coffee-background-stars i:nth-child(11n)::before {
+    width: 13px;
+    height: 1px;
+  }
+  #coffee-background-stars i:nth-child(11n)::after {
+    width: 1px;
+    height: 13px;
+    background: linear-gradient(transparent, #e5efff, transparent);
+  }
+  @keyframes coffee-star-twinkle {
+    from { opacity: .12; transform: scale(.65); }
+    to   { opacity: .95; transform: scale(1.25); }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    #coffee-background-stars i { animation: none; opacity: .45; }
+  }
+</style>
+<script>
+(() => {
+  const background = document.querySelector('.background');
+  if (!background || document.getElementById('coffee-background-stars')) return;
+  const layer = document.createElement('div');
+  layer.id = 'coffee-background-stars';
+  layer.setAttribute('aria-hidden', 'true');
+  let seed = 57;
+  const random = () => ((seed = seed * 16807 % 2147483647) - 1) / 2147483646;
+  for (let n = 0; n < 70; n++) {
+    const star = document.createElement('i');
+    star.style.cssText = `
+      --x:${random() * 100}%;
+      --y:${random() * 100}%;
+      --size:${1 + random() * 1.8}px;
+      --duration:${2 + random() * 4}s;
+      --delay:${-random() * 6}s;
+    `;
+    layer.append(star);
+  }
+  background.append(layer);
+})();
+</script>
+
+</body></html>

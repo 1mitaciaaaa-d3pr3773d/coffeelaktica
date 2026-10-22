@@ -1,0 +1,71 @@
+<!-- Отдельный слой звёзд. Вставить перед </body>. -->
+<style>
+  #coffee-background-stars {
+    position: absolute;
+    inset: 0 0 32%;
+    overflow: hidden;
+    pointer-events: none;
+    z-index: 1;
+  }
+  #coffee-background-stars i {
+    position: absolute;
+    left: var(--x);
+    top: var(--y);
+    width: var(--size);
+    height: var(--size);
+    border-radius: 50%;
+    background: #edf5ff;
+    box-shadow: 0 0 7px 2px #adcfff80;
+    opacity: .12;
+    animation: coffee-star-twinkle var(--duration)
+      ease-in-out var(--delay) infinite alternate;
+  }
+  #coffee-background-stars i:nth-child(11n)::before,
+  #coffee-background-stars i:nth-child(11n)::after {
+    content: "";
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background: linear-gradient(90deg, transparent, #e5efff, transparent);
+  }
+  #coffee-background-stars i:nth-child(11n)::before {
+    width: 13px;
+    height: 1px;
+  }
+  #coffee-background-stars i:nth-child(11n)::after {
+    width: 1px;
+    height: 13px;
+    background: linear-gradient(transparent, #e5efff, transparent);
+  }
+  @keyframes coffee-star-twinkle {
+    from { opacity: .12; transform: scale(.65); }
+    to   { opacity: .95; transform: scale(1.25); }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    #coffee-background-stars i { animation: none; opacity: .45; }
+  }
+</style>
+<script>
+(() => {
+  const background = document.querySelector('.background');
+  if (!background || document.getElementById('coffee-background-stars')) return;
+  const layer = document.createElement('div');
+  layer.id = 'coffee-background-stars';
+  layer.setAttribute('aria-hidden', 'true');
+  let seed = 57;
+  const random = () => ((seed = seed * 16807 % 2147483647) - 1) / 2147483646;
+  for (let n = 0; n < 70; n++) {
+    const star = document.createElement('i');
+    star.style.cssText = `
+      --x:${random() * 100}%;
+      --y:${random() * 100}%;
+      --size:${1 + random() * 1.8}px;
+      --duration:${2 + random() * 4}s;
+      --delay:${-random() * 6}s;
+    `;
+    layer.append(star);
+  }
+  background.append(layer);
+})();
+</script>
