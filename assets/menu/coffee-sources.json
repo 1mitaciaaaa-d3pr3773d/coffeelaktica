@@ -1,0 +1,233 @@
+[
+  {
+    "id": "coffee-32972540",
+    "path": "assets/menu/coffee-32972540.webp",
+    "source_url": "https://www.pexels.com/photo/32972540/",
+    "image_url": "https://images.pexels.com/photos/32972540/pexels-photo-32972540.jpeg?auto=compress&cs=tinysrgb&w=960",
+    "author": "Dicky Agustian",
+    "license": "Pexels License",
+    "license_url": "https://www.pexels.com/license/",
+    "products": [
+      "Эспрессо",
+      "Ристретто",
+      "Доппио",
+      "Лунго"
+    ],
+    "note": "Эспрессо в керамической чашке, светлая серия; связанные фото страницы32972556."
+  },
+  {
+    "id": "coffee-32938771",
+    "path": "assets/menu/coffee-32938771.webp",
+    "source_url": "https://www.pexels.com/photo/32938771/",
+    "image_url": "https://images.pexels.com/photos/32938771/pexels-photo-32938771.jpeg?auto=compress&cs=tinysrgb&w=960",
+    "author": "Dicky Agustian",
+    "license": "Pexels License",
+    "license_url": "https://www.pexels.com/license/",
+    "products": [
+      "Флэт Уайт",
+      "Капучино",
+      "Капучино на растительном молоке",
+      "Латте"
+    ],
+    "note": "Молочный кофе со светлой пенкой; растительное молоко и вкус по изображению не определяются."
+  },
+  {
+    "id": "coffee-32938773",
+    "path": "assets/menu/coffee-32938773.webp",
+    "source_url": "https://www.pexels.com/photo/32938773/",
+    "image_url": "https://images.pexels.com/photos/32938773/pexels-photo-32938773.jpeg?auto=compress&cs=tinysrgb&w=960",
+    "author": "Dicky Agustian",
+    "license": "Pexels License",
+    "license_url": "https://www.pexels.com/license/",
+    "products": [
+      "Флэт Уайт",
+      "Капучино",
+      "Капучино на растительном молоке",
+      "Латте"
+    ],
+    "note": "Второй самостоятельный кадр из той же светлой серии, связанный со страницей32972556."
+  },
+  {
+    "id": "coffee-32972503",
+    "path": "assets/menu/coffee-32972503.webp",
+    "source_url": "https://www.pexels.com/photo/32972503/",
+    "image_url": "https://images.pexels.com/photos/32972503/pexels-photo-32972503.jpeg?auto=compress&cs=tinysrgb&w=960",
+    "author": "Dicky Agustian",
+    "license": "Pexels License",
+    "license_url": "https://www.pexels.com/license/",
+    "products": [
+      "Айс Латте"
+    ],
+    "note": "Айс-кофе на том же нейтральном столе."
+  },
+  {
+    "id": "coffee-6763232",
+    "path": "assets/menu/coffee-6763232.webp",
+    "source_url": "https://www.pexels.com/photo/6763232/",
+    "image_url": "https://images.pexels.com/photos/6763232/pexels-photo-6763232.jpeg?auto=compress&cs=tinysrgb&w=960",
+    "author": "Joao Sócola",
+    "license": "Pexels License",
+    "license_url": "https://www.pexels.com/license/",
+    "products": [
+      "Капучино крим",
+      "Белочка",
+      "Рафаэлло",
+      "Раф классический / с сиропом",
+      "Авторский раф",
+      "Пряная вишня"
+    ],
+    "note": "Иллюстративный кремовый кофе. Авторские добавки и рецептура не подтверждаются стоковым фото."
+  },
+  {
+    "id": "coffee-29253460",
+    "path": "assets/menu/coffee-29253460.webp",
+    "source_url": "https://www.pexels.com/photo/29253460/",
+    "image_url": "https://images.pexels.com/photos/29253460/pexels-photo-29253460.jpeg?auto=compress&cs=tinysrgb&w=960",
+    "author": "Matheus Bertelli",
+    "license": "Pexels License",
+    "license_url": "https://www.pexels.com/license/",
+    "products": [
+      "Латте",
+      "Капучино",
+      "Капучино на растительном молоке",
+      "Флэт Уайт"
+    ],
+    "note": "Молочный кофе в стеклянной чашке на нейтральной поверхности."
+  },
+  {
+    "id": "coffee-131893",
+    "path": "assets/menu/coffee-131893.webp",
+    "source_url": "https://www.pexels.com/photo/131893/",
+    "image_url": "https://images.pexels.com/photos/131893/pexels-photo-131893.jpeg?auto=compress&cs=tinysrgb&w=960",
+    "author": "Brigitte Tohm",
+    "license": "Pexels License",
+    "license_url": "https://www.pexels.com/license/",
+    "products": [
+      "Американо",
+      "Лунго"
+    ],
+    "note": "Чёрный кофе в кружке на светлой поверхности."
+  },
+  {
+    "id": "coffee-22884694",
+    "path": "assets/menu/coffee-22884694.webp",
+    "source_url": "https://www.pexels.com/photo/22884694/",
+    "image_url": "https://images.pexels.com/photos/22884694/pexels-photo-22884694.jpeg?auto=compress&cs=tinysrgb&w=960",
+    "author": "CARLA VIEIRA",
+    "license": "Pexels License",
+    "license_url": "https://www.pexels.com/license/",
+    "products": [
+      "Мокко белый / тёмный",
+      "Моккачино",
+      "Кофе по-венски"
+    ],
+    "note": "Слоёный кофе с шоколадом и взбитыми сливками; иллюстративная подача."
+  },
+  {
+    "id": "coffee-22884700",
+    "path": "assets/menu/coffee-22884700.webp",
+    "source_url": "https://www.pexels.com/photo/22884700/",
+    "image_url": "https://images.pexels.com/photos/22884700/pexels-photo-22884700.jpeg?auto=compress&cs=tinysrgb&w=960",
+    "author": "CARLA VIEIRA",
+    "license": "Pexels License",
+    "license_url": "https://www.pexels.com/license/",
+    "products": [
+      "Мокко белый / тёмный",
+      "Моккачино",
+      "Кофе по-венски"
+    ],
+    "note": "Второй кадр кофе со сливками из одной фотосессии."
+  },
+  {
+    "id": "coffee-11136849",
+    "path": "assets/menu/coffee-11136849.webp",
+    "source_url": "https://www.pexels.com/photo/11136849/",
+    "image_url": "https://images.pexels.com/photos/11136849/pexels-photo-11136849.jpeg?auto=compress&cs=tinysrgb&w=960",
+    "author": "Federica Gioia",
+    "license": "Pexels License",
+    "license_url": "https://www.pexels.com/license/",
+    "products": [
+      "Айс Латте"
+    ],
+    "note": "Холодный молочный кофе на светлом фоне."
+  },
+  {
+    "id": "coffee-18281882",
+    "path": "assets/menu/coffee-18281882.webp",
+    "source_url": "https://www.pexels.com/photo/18281882/",
+    "image_url": "https://images.pexels.com/photos/18281882/pexels-photo-18281882.jpeg?auto=compress&cs=tinysrgb&w=960",
+    "author": "Pervane Mustafa27",
+    "license": "Pexels License",
+    "license_url": "https://www.pexels.com/license/",
+    "products": [
+      "Айс Латте"
+    ],
+    "note": "Крупный план молочного кофе со льдом."
+  },
+  {
+    "id": "coffee-6174884",
+    "path": "assets/menu/coffee-6174884.webp",
+    "source_url": "https://www.pexels.com/photo/6174884/",
+    "image_url": "https://images.pexels.com/photos/6174884/pexels-photo-6174884.jpeg?auto=compress&cs=tinysrgb&w=960",
+    "author": "Teguh Sugi",
+    "license": "Pexels License",
+    "license_url": "https://www.pexels.com/license/",
+    "products": [
+      "Фраппучино"
+    ],
+    "note": "Настоящий холодный фраппе с пенкой; светлая предметная съёмка."
+  },
+  {
+    "id": "coffee-33384167",
+    "path": "assets/menu/coffee-tonic-crop.webp",
+    "source_url": "https://www.pexels.com/photo/33384167/",
+    "image_url": "https://images.pexels.com/photos/33384167/pexels-photo-33384167.jpeg?auto=compress&cs=tinysrgb&w=960",
+    "author": "Haberdoedas Photography",
+    "license": "Pexels License",
+    "license_url": "https://www.pexels.com/license/",
+    "products": [
+      "Эспрессо-тоник"
+    ],
+    "note": "Эспрессо-тоник, кадр обрезан по напитку: брендированная подложка исключена."
+  },
+  {
+    "id": "coffee-orange",
+    "path": "assets/menu/coffee-orange.webp",
+    "source_url": "https://unsplash.com/photos/a-dark-beverage-garnished-with-orange-slices-and-fresh-mint-jOj_UwXqlYY",
+    "image_url": "https://images.unsplash.com/photo-1783307525025-8adf0b1e0aa1?auto=format&fit=max&w=960&q=85",
+    "author": "Tabita Princesia",
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license",
+    "products": [
+      "Шмель",
+      "Капуоранж"
+    ],
+    "note": "Orange Espresso. Иллюстративная кофейно-цитрусовая подача; не фотография конкретного напитка заведения."
+  },
+  {
+    "id": "coffee-coconut",
+    "path": "assets/menu/coffee-coconut.webp",
+    "source_url": "https://www.pexels.com/photo/a-glass-of-coffee-near-the-fresh-coconut-4294726/",
+    "image_url": "https://images.pexels.com/photos/4294726/pexels-photo-4294726.jpeg?auto=compress&cs=tinysrgb&w=960",
+    "author": "Tijana Drndarski",
+    "license": "Pexels License",
+    "license_url": "https://www.pexels.com/license/",
+    "products": [
+      "Рафаэлло"
+    ],
+    "note": "Иллюстративный кокосовый кофе. Подача с далгона-пенкой не является рецептурой кофейни."
+  },
+  {
+    "id": "coffee-drip-bag",
+    "path": "assets/menu/coffee-drip-bag.webp",
+    "source_url": "https://unsplash.com/photos/a-single-serve-coffee-drip-bag-on-a-white-mug-gZSsai3SvdM",
+    "image_url": "https://images.unsplash.com/photo-1758677821691-1a63fdc9a183?auto=format&fit=max&w=960&q=85",
+    "author": "Sebastian Schuster",
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license",
+    "products": [
+      "Дрип-пакет"
+    ],
+    "note": "Настоящий одноразовый бумажный дрип-пакет на кружке. Более тёмный нейтральный фон сохранён ради соответствия продукту."
+  }
+]

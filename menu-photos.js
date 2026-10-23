@@ -1,0 +1,135 @@
+// Curated illustrative stock photos; provenance in assets/menu/*-sources.json.
+window.coffeeMenuPhotos = {
+  "Эспрессо": [
+    "assets/menu/coffee-32972540.webp"
+  ],
+  "Ристретто": [
+    "assets/menu/coffee-32972540.webp"
+  ],
+  "Доппио": [
+    "assets/menu/coffee-32972540.webp"
+  ],
+  "Лунго": [
+    "assets/menu/coffee-32972540.webp",
+    "assets/menu/coffee-131893.webp"
+  ],
+  "Флэт Уайт": [
+    "assets/menu/coffee-32938771.webp",
+    "assets/menu/coffee-32938773.webp",
+    "assets/menu/coffee-29253460.webp"
+  ],
+  "Капучино": [
+    "assets/menu/coffee-32938771.webp",
+    "assets/menu/coffee-32938773.webp",
+    "assets/menu/coffee-29253460.webp"
+  ],
+  "Капучино на растительном молоке": [
+    "assets/menu/coffee-32938771.webp",
+    "assets/menu/coffee-32938773.webp",
+    "assets/menu/coffee-29253460.webp"
+  ],
+  "Латте": [
+    "assets/menu/coffee-32938771.webp",
+    "assets/menu/coffee-32938773.webp",
+    "assets/menu/coffee-29253460.webp"
+  ],
+  "Айс Латте": [
+    "assets/menu/coffee-32972503.webp",
+    "assets/menu/coffee-11136849.webp",
+    "assets/menu/coffee-18281882.webp"
+  ],
+  "Капучино крим": [
+    "assets/menu/coffee-6763232.webp"
+  ],
+  "Белочка": [
+    "assets/menu/coffee-6763232.webp"
+  ],
+  "Рафаэлло": [
+    "assets/menu/coffee-6763232.webp",
+    "assets/menu/coffee-coconut.webp"
+  ],
+  "Раф классический / с сиропом": [
+    "assets/menu/coffee-6763232.webp"
+  ],
+  "Авторский раф": [
+    "assets/menu/coffee-6763232.webp"
+  ],
+  "Пряная вишня": [
+    "assets/menu/coffee-6763232.webp"
+  ],
+  "Американо": [
+    "assets/menu/coffee-131893.webp"
+  ],
+  "Дрип-пакет": [
+    "assets/menu/coffee-drip-bag.webp"
+  ],
+  "Мокко белый / тёмный": [
+    "assets/menu/coffee-22884694.webp",
+    "assets/menu/coffee-22884700.webp"
+  ],
+  "Моккачино": [
+    "assets/menu/coffee-22884694.webp",
+    "assets/menu/coffee-22884700.webp"
+  ],
+  "Кофе по-венски": [
+    "assets/menu/coffee-22884694.webp",
+    "assets/menu/coffee-22884700.webp"
+  ],
+  "Фраппучино": [
+    "assets/menu/coffee-6174884.webp"
+  ],
+  "Эспрессо-тоник": [
+    "assets/menu/coffee-tonic-crop.webp"
+  ],
+  "Шмель": [
+    "assets/menu/coffee-orange.webp"
+  ],
+  "Капуоранж": [
+    "assets/menu/coffee-orange.webp"
+  ],
+  "Чай Mlesna": [
+    "assets/menu/other-tea-pot.webp"
+  ],
+  "Пакетированный чай Mlesna": [
+    "assets/menu/other-tea-cup.webp"
+  ],
+  "Авторский чай": [
+    "assets/menu/other-tea-cup.webp"
+  ],
+  "Матча": [
+    "assets/menu/other-matcha.webp"
+  ],
+  "Матча на растительном молоке": [
+    "assets/menu/other-matcha.webp"
+  ],
+  "Какао": [
+    "assets/menu/other-cocoa.webp"
+  ],
+  "Какао на растительном молоке": [
+    "assets/menu/other-cocoa.webp"
+  ],
+  "Горячий шоколад": [
+    "assets/menu/other-cocoa.webp"
+  ],
+  "Умка": [
+    "assets/menu/other-milkshake.webp"
+  ],
+  "Лимонад": [
+    "assets/menu/other-lemonade.webp"
+  ],
+  "Смузи": [
+    "assets/menu/other-smoothie.webp"
+  ],
+  "Свежевыжатый сок": [
+    "assets/menu/other-juice.webp"
+  ],
+  "Грушевый чизкейк": [
+    "assets/menu/other-cheesecake.webp"
+  ],
+  "Лимонный чизкейк": [
+    "assets/menu/other-lemon-cheesecake.webp"
+  ],
+  "Круассан": [
+    "assets/menu/other-croissant.webp"
+  ]
+};

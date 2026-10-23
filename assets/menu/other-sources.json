@@ -1,0 +1,182 @@
+[
+  {
+    "id": "other-tea-pot",
+    "path": "assets/menu/other-tea-pot.webp",
+    "source_url": "https://www.pexels.com/photo/cozy-tea-setup-with-glass-teapot-and-cup-34423691/",
+    "image_url": "https://images.pexels.com/photos/34423691/pexels-photo-34423691.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "author": "betül nur akyürek",
+    "license": "Pexels License",
+    "license_url": "https://www.pexels.com/legal-pages/license/",
+    "products": [
+      "Чай Mlesna"
+    ],
+    "note": "Generic brewed tea, not Mlesna branded product.",
+    "width": 960,
+    "height": 960,
+    "bytes": 95724
+  },
+  {
+    "id": "other-tea-cup",
+    "path": "assets/menu/other-tea-cup.webp",
+    "source_url": "https://www.pexels.com/photo/ornamental-porcelain-cup-of-tea-with-lemon-at-home-5946741/",
+    "image_url": "https://images.pexels.com/photos/5946741/pexels-photo-5946741.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "author": "Charlotte May",
+    "license": "Pexels License",
+    "license_url": "https://www.pexels.com/legal-pages/license/",
+    "products": [
+      "Пакетированный чай Mlesna",
+      "Авторский чай"
+    ],
+    "note": "Generic tea with lemon, not a brand or confirmed house recipe.",
+    "width": 960,
+    "height": 960,
+    "bytes": 25370
+  },
+  {
+    "id": "other-matcha",
+    "path": "assets/menu/other-matcha.webp",
+    "source_url": "https://www.pexels.com/photo/cup-of-green-matcha-latte-16170381/",
+    "image_url": "https://images.pexels.com/photos/16170381/pexels-photo-16170381.jpeg?auto=compress&cs=tinysrgb&w=2400",
+    "author": "Irene K",
+    "license": "Pexels License",
+    "license_url": "https://www.pexels.com/legal-pages/license/",
+    "products": [
+      "Матча",
+      "Матча на растительном молоке"
+    ],
+    "note": "Generic matcha latte; milk type is not visually established.",
+    "width": 960,
+    "height": 960,
+    "bytes": 50874
+  },
+  {
+    "id": "other-cocoa",
+    "path": "assets/menu/other-cocoa.webp",
+    "source_url": "https://www.pexels.com/photo/a-cup-of-hot-chocolate-with-whipped-cream-and-cinnamon-standing-on-a-kitchen-counter-5419230/",
+    "image_url": "https://images.pexels.com/photos/5419230/pexels-photo-5419230.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "author": "Polina Tankilevitch",
+    "license": "Pexels License",
+    "license_url": "https://www.pexels.com/legal-pages/license/",
+    "products": [
+      "Какао",
+      "Какао на растительном молоке",
+      "Горячий шоколад"
+    ],
+    "note": "Generic chocolate drink; topping, milk type and recipe are illustrative.",
+    "width": 960,
+    "height": 960,
+    "bytes": 18604
+  },
+  {
+    "id": "other-milkshake",
+    "path": "assets/menu/other-milkshake.webp",
+    "source_url": "https://www.pexels.com/photo/refreshing-vanilla-milkshake-on-wooden-table-28525197/",
+    "image_url": "https://images.pexels.com/photos/28525197/pexels-photo-28525197.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "author": "Alejandro Aznar",
+    "license": "Pexels License",
+    "license_url": "https://www.pexels.com/legal-pages/license/",
+    "products": [
+      "Умка"
+    ],
+    "note": "Generic vanilla milkshake, not confirmed house recipe.",
+    "width": 960,
+    "height": 960,
+    "bytes": 58166
+  },
+  {
+    "id": "other-lemonade",
+    "path": "assets/menu/other-lemonade.webp",
+    "source_url": "https://www.pexels.com/photo/delicious-lemonade-in-glass-on-table-at-home-5946719/",
+    "image_url": "https://images.pexels.com/photos/5946719/pexels-photo-5946719.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "author": "Charlotte May",
+    "license": "Pexels License",
+    "license_url": "https://www.pexels.com/legal-pages/license/",
+    "products": [
+      "Лимонад"
+    ],
+    "note": "Generic citrus lemonade.",
+    "width": 960,
+    "height": 960,
+    "bytes": 28244
+  },
+  {
+    "id": "other-smoothie",
+    "path": "assets/menu/other-smoothie.webp",
+    "source_url": "https://www.pexels.com/photo/pink-smoothie-in-glass-beside-dragon-fruit-4443488/",
+    "image_url": "https://images.pexels.com/photos/4443488/pexels-photo-4443488.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "author": "Polina Tankilevitch",
+    "license": "Pexels License",
+    "license_url": "https://www.pexels.com/legal-pages/license/",
+    "products": [
+      "Смузи"
+    ],
+    "note": "Illustrative fruit smoothie; flavour is not confirmed in source menu.",
+    "width": 960,
+    "height": 960,
+    "bytes": 61332
+  },
+  {
+    "id": "other-juice",
+    "path": "assets/menu/other-juice.webp",
+    "source_url": "https://www.pexels.com/photo/close-up-of-freshly-squeezed-orange-juice-in-glasses-and-oranges-lying-on-white-surface-16142274/",
+    "image_url": "https://images.pexels.com/photos/16142274/pexels-photo-16142274.jpeg?auto=compress&cs=tinysrgb&w=2400",
+    "author": "Natali Yakovleva",
+    "license": "Pexels License",
+    "license_url": "https://www.pexels.com/legal-pages/license/",
+    "products": [
+      "Свежевыжатый сок"
+    ],
+    "note": "Illustrative orange juice.",
+    "width": 960,
+    "height": 960,
+    "bytes": 37856
+  },
+  {
+    "id": "other-cheesecake",
+    "path": "assets/menu/other-cheesecake.webp",
+    "source_url": "https://www.pexels.com/photo/creamy-food-on-tray-19534469/",
+    "image_url": "https://images.pexels.com/photos/19534469/pexels-photo-19534469.jpeg?auto=compress&cs=tinysrgb&w=2400",
+    "author": "Yulia Oliinychenko",
+    "license": "Pexels License",
+    "license_url": "https://www.pexels.com/legal-pages/license/",
+    "products": [
+      "Грушевый чизкейк"
+    ],
+    "note": "Generic plain cheesecake; pear flavour is not verifiable from stock image.",
+    "width": 960,
+    "height": 960,
+    "bytes": 31308
+  },
+  {
+    "id": "other-lemon-cheesecake",
+    "path": "assets/menu/other-lemon-cheesecake.webp",
+    "source_url": "https://www.pexels.com/photo/lemon-cheesecake-on-table-10754937/",
+    "image_url": "https://images.pexels.com/photos/10754937/pexels-photo-10754937.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "author": "Chiaroscuro",
+    "license": "Pexels License",
+    "license_url": "https://www.pexels.com/legal-pages/license/",
+    "products": [
+      "Лимонный чизкейк"
+    ],
+    "note": "Stock lemon cheesecake, not actual cafe product.",
+    "width": 960,
+    "height": 960,
+    "bytes": 71842
+  },
+  {
+    "id": "other-croissant",
+    "path": "assets/menu/other-croissant.webp",
+    "source_url": "https://www.pexels.com/photo/photo-of-a-croissant-on-a-plate-16543194/",
+    "image_url": "https://images.pexels.com/photos/16543194/pexels-photo-16543194.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "author": "Lisa Fotios",
+    "license": "Pexels License",
+    "license_url": "https://www.pexels.com/legal-pages/license/",
+    "products": [
+      "Круассан"
+    ],
+    "note": "Stock croissant, not actual cafe product.",
+    "width": 960,
+    "height": 960,
+    "bytes": 56348
+  }
+]
